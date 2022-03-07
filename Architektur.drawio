@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T11:06:00.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FAXKUlidmIbSQDJ1NqDw" version="16.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-07T11:45:27.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_fYzGUSODK7IhhqS72gu" version="16.6.6" type="github" pages="4">
   <diagram id="mgQr69-Z5pUe2x5VovRg" name="Page-4">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GZlJd5SNs9GDun6JwF9o-0" />
         <mxCell id="GZlJd5SNs9GDun6JwF9o-1" parent="GZlJd5SNs9GDun6JwF9o-0" />
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pnTwHTtoc6qKJ2tYIUsI" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,11 +20,11 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="550" width="1195" height="249" as="geometry" />
-        </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-2" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="190" width="1190" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="1195" height="249" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-4" target="aJVSoK5bzTk0aV2jSWWW-17">
           <mxGeometry relative="1" as="geometry" />
@@ -35,11 +35,11 @@
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-5" value="Smartphone" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
           <mxGeometry x="780" y="258" width="213" height="212" as="geometry" />
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-7" target="aJVSoK5bzTk0aV2jSWWW-5">
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-7" target="aJVSoK5bzTk0aV2jSWWW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-7" value="Benutzer" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="270" width="157" height="84" as="geometry" />
+          <mxGeometry x="400" y="322" width="157" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-9" target="aJVSoK5bzTk0aV2jSWWW-4">
           <mxGeometry relative="1" as="geometry" />
@@ -50,11 +50,11 @@
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-10" value="PW Applikation" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="811.5" y="274.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-11" value="Firebase Auth" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" vertex="1" parent="1">
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-11" value="Authentification" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="860" y="587" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-12" value="NFC-Tag&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;spacingTop=65;" vertex="1" parent="1">
-          <mxGeometry x="480" y="390" width="129" height="80" as="geometry" />
+          <mxGeometry x="1140" y="349.5" width="129" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-17" target="aJVSoK5bzTk0aV2jSWWW-5">
           <mxGeometry relative="1" as="geometry" />
@@ -62,23 +62,23 @@
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-17" value="REST API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="671" y="587" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-19" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;strokeWidth=3;startArrow=open;startFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-12" target="aJVSoK5bzTk0aV2jSWWW-5">
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-19" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;strokeWidth=3;startArrow=open;startFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-12" target="aJVSoK5bzTk0aV2jSWWW-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="334" as="sourcePoint" />
             <mxPoint x="780" y="334" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="656" y="312" />
+              <mxPoint x="1110" y="311" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-20" value="activated NFC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingBottom=15;fontSize=13;" vertex="1" connectable="0" parent="aJVSoK5bzTk0aV2jSWWW-19">
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-20" value="activated NFC function" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingBottom=15;fontSize=13;" vertex="1" connectable="0" parent="aJVSoK5bzTk0aV2jSWWW-19">
           <mxGeometry x="0.0401" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-223" y="87" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KE7PETY7LlI7wF7UM7-s-1" value="read/write" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="aJVSoK5bzTk0aV2jSWWW-19">
           <mxGeometry x="0.4849" y="1" relative="1" as="geometry">
-            <mxPoint x="-50" y="19" as="offset" />
+            <mxPoint x="33" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-21" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-5" target="aJVSoK5bzTk0aV2jSWWW-11">
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QqpiQ-Pyb7mhaNrD5BXT" name="Page-2">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FoQtzTNYerXTcxqKBjz8-0" />
         <mxCell id="FoQtzTNYerXTcxqKBjz8-1" parent="FoQtzTNYerXTcxqKBjz8-0" />
