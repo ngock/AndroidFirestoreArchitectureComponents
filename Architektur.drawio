@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T11:45:27.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_fYzGUSODK7IhhqS72gu" version="16.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-07T11:47:33.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1szxnfUY3g9KEEdFg9kd" version="16.6.6" type="github" pages="4">
   <diagram id="mgQr69-Z5pUe2x5VovRg" name="Page-4">
     <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pnTwHTtoc6qKJ2tYIUsI" name="Page-1">
-    <mxGraphModel dx="1673" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-4" value="soo Backend Server" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="430" y="587" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-5" value="Smartphone" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-5" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
           <mxGeometry x="780" y="258" width="213" height="212" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-7" target="aJVSoK5bzTk0aV2jSWWW-5">
@@ -47,8 +47,16 @@
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-9" value="Datenbank" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="430" y="697" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="aJVSoK5bzTk0aV2jSWWW-10" value="PW Applikation" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="811.5" y="274.5" width="150" height="75" as="geometry" />
+        <mxCell id="MqT9ySt28CaPBNcC2KNS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-10" target="MqT9ySt28CaPBNcC2KNS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="885" y="350" />
+              <mxPoint x="885" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJVSoK5bzTk0aV2jSWWW-10" value="Tran&#39;s PWA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="830.75" y="274.5" width="111.5" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-11" value="Authentification" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="860" y="587" width="150" height="75" as="geometry" />
@@ -73,7 +81,7 @@
         </mxCell>
         <mxCell id="aJVSoK5bzTk0aV2jSWWW-20" value="activated NFC function" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingBottom=15;fontSize=13;" vertex="1" connectable="0" parent="aJVSoK5bzTk0aV2jSWWW-19">
           <mxGeometry x="0.0401" y="2" relative="1" as="geometry">
-            <mxPoint x="-223" y="87" as="offset" />
+            <mxPoint x="-223" y="147" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KE7PETY7LlI7wF7UM7-s-1" value="read/write" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="aJVSoK5bzTk0aV2jSWWW-19">
@@ -90,6 +98,12 @@
               <mxPoint x="1013" y="530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MqT9ySt28CaPBNcC2KNS-1" value="soo Applikation" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="830.75" y="374.5" width="109" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="MqT9ySt28CaPBNcC2KNS-3" value="mobile device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="830.75" y="230" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
