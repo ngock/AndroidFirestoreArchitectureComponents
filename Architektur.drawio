@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T12:46:01.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="uVNumM9RA6boBKEw7Gtm" version="17.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-09T14:01:00.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="NEAEL6pqvKrGI0emrVT6" version="17.4.1" type="github" pages="4">
   <diagram id="pnTwHTtoc6qKJ2tYIUsI" name="Page-1">
-    <mxGraphModel dx="956" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1478" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,16 +62,28 @@
           <mxGeometry x="395.5" y="538.5" width="19" height="10" as="geometry" />
         </mxCell>
         <mxCell id="j3bPWYNzHxpbUPE0F18K-15" value="Angular" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="524" y="165" width="128.5" height="70" as="geometry" />
+          <mxGeometry x="527" y="160" width="128.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="j3bPWYNzHxpbUPE0F18K-16" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;" edge="1" parent="1">
+        <mxCell id="j3bPWYNzHxpbUPE0F18K-16" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;" edge="1" parent="1" target="aJVSoK5bzTk0aV2jSWWW-10">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="294.5" y="197.37" as="sourcePoint" />
-            <mxPoint x="341" y="196" as="targetPoint" />
+            <mxPoint x="252" y="223.37" as="sourcePoint" />
+            <mxPoint x="298.5" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XXJAXtMqjpYp_zQJXWU-4" value="Mitarbeiter an Produktionsstation" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="153" y="111" width="106" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="_XXJAXtMqjpYp_zQJXWU-5" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aJVSoK5bzTk0aV2jSWWW-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="200.69" as="sourcePoint" />
+            <mxPoint x="526.5" y="199.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XXJAXtMqjpYp_zQJXWU-6" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aJVSoK5bzTk0aV2jSWWW-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="259" y="178.37" as="sourcePoint" />
+            <mxPoint x="305.5" y="177" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
